@@ -65,9 +65,9 @@ experiences
         <img src="hardhat_adobe_express.svg"  alt="Hardhat"
         alt="Hardhat"
         width="40"
-        height="40">
-
+        height="40"/>
       </a>
+        
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
