@@ -2,18 +2,51 @@
 <h1 align="center">Hi 👋, I'm Rutvik Gujarati</h1>
 <h3 align="center">Blockchain Developer From India.</h3>
 
-<img align="right" alt="Blockchain Development" width="400" src="https://cdn.dribbble.com/users/192882/screenshots/4659605/media/c291dcfccf93b83e58744c56060f440a.gif" alt="">
+<img align="right" alt="Blockchain Development" width="300" src="https://cdn.dribbble.com/users/948461/screenshots/6841855/the_blockchain_animation_laurentiulunic.gif" alt="">
 
-<p>- 👨‍💻 All of my projects are available at
-[https://rutvik-gujarati.netlify.app/](https://rutvik-gujarati.netlify.app/) -
-</p>
+<body>
+    <a href="https://rutvik-gujarati.netlify.app" class="button">Visit My Website</a>
+  </body>
+<style>
+    /* Reset default styles for button */
+.button {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007bff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style the button on hover */
+.button:hover {
+  background-color: #0056b3;
+}
+
+/* Style the button on click */
+.button:active {
+  background-color: #003580;
+}
+
+/* Style the button for mobile devices */
+@media screen and (max-width: 600px) {
+  .button {
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+}
+
+</style>
+
 <p>
 📫 How to reach me **gujaratirutvik007@gmail.com**
 </p>
 
-- 📄 Know about my
-experiences
-[https://gold-favourable-bonobo-219.mypinata.cloud/ipfs/QmX45vAsCxFTXmd7A5rhsv3CG4jWQUnLDki5cxwq6uguJs](https://gold-favourable-bonobo-219.mypinata.cloud/ipfs/QmX45vAsCxFTXmd7A5rhsv3CG4jWQUnLDki5cxwq6uguJs)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,9 +98,9 @@ experiences
         <img src="hardhat_adobe_express.svg"  alt="Hardhat"
         alt="Hardhat"
         width="40"
-        height="40"/>
+        height="40">
+
       </a>
-        
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
