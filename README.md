@@ -4,7 +4,7 @@
 
 <img align="right" alt="Blockchain Development" width="300" src="https://cdn.dribbble.com/users/948461/screenshots/6841855/the_blockchain_animation_laurentiulunic.gif" alt="">
 
-<link rel="stylesheet" href="styel.css">
+<link rel="stylesheet" href="style.css">
 
 <body>
     <a href="https://rutvik-gujarati.netlify.app" class="button">Visit My Website</a>
@@ -67,7 +67,6 @@
         alt="Hardhat"
         width="40"
         height="40">
-
       </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
