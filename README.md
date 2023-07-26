@@ -4,43 +4,11 @@
 
 <img align="right" alt="Blockchain Development" width="300" src="https://cdn.dribbble.com/users/948461/screenshots/6841855/the_blockchain_animation_laurentiulunic.gif" alt="">
 
+<link rel="stylesheet" href="styel.css">
+
 <body>
     <a href="https://rutvik-gujarati.netlify.app" class="button">Visit My Website</a>
   </body>
-<style>
-    /* Reset default styles for button */
-.button {
-  display: inline-block;
-  text-decoration: none;
-  color: #fff;
-  background-color: #007bff;
-  padding: 12px 24px;
-  border-radius: 4px;
-  font-size: 16px;
-  font-weight: bold;
-  border: none;
-  cursor: pointer;
-}
-
-/* Style the button on hover */
-.button:hover {
-  background-color: #0056b3;
-}
-
-/* Style the button on click */
-.button:active {
-  background-color: #003580;
-}
-
-/* Style the button for mobile devices */
-@media screen and (max-width: 600px) {
-  .button {
-    font-size: 14px;
-    padding: 10px 20px;
-  }
-}
-
-</style>
 
 <p>
 📫 How to reach me **gujaratirutvik007@gmail.com**
