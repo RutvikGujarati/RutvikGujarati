@@ -1,6 +1,6 @@
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/qRvPQnj1/Studio-Project-V1.png' border='0' alt='Studio-Project-V1'/></a>
-# Hi, 👋 I am Rutvik Gujarati.<br>Blockchain Developer From India.<br>Building Secure and Transparent Solutions with Smart Contracts and Decentralized Applications.
-
+                                                            <h3> Hi, 👋 I am Rutvik Gujarati.</h3>
+                                                             <h3> Blockchain Developer From India. </h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rutvik0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gujarati-rutvik-b88347258/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21131728/rutvik-gujarati) 
