@@ -1,4 +1,4 @@
-![MasterHead](https://postimg.cc/qtWDvtfK)
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/qRvPQnj1/Studio-Project-V1.png' border='0' alt='Studio-Project-V1'/></a>
 # Hi, 👋 I am Rutvik Gujarati.<br>Blockchain Developer From India.<br>Building Secure and Transparent Solutions with Smart Contracts and Decentralized Applications.
 
 
