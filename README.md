@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, 👋 I am Rutvik Gujarati.<br>Blockchain Developer From India.<br>Building Secure and Transparent Solutions with Smart Contracts and Decentralized Applications.
+[![MasterHead](https://thumbs.dreamstime.com/b/abstract-blockchain-concept-banner-modern-digital-technology-shape-block-chain-vector-illustration-network-circuit-107546028.jpg)]
+# Hi, 👋 I am Rutvik Gujarati.<br>Blockchain Developer From India.<br>Building Secure and Transparent Solutions with Smart Contracts and Decentralized Applications.
 
 
 ## 🌐 Socials:
