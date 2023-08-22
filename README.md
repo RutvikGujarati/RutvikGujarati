@@ -1,6 +1,6 @@
-                                                            ## Hi, 👋 I am Rutvik Gujarati.
-                                                           ## Blockchain Developer From India. 
-
+ ##                                                      Hi, 👋 I am Rutvik Gujarati.
+ ##                                                     Blockchain Developer From India.     
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/rutvik0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvik-gujarati/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21131728/rutvik-gujarati) 
 
