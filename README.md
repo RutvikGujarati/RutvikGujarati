@@ -1,4 +1,3 @@
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/qRvPQnj1/Studio-Project-V1.png' border='0' alt='Studio-Project-V1'/></a>
                                                             <h3> Hi, 👋 I am Rutvik Gujarati.</h3>
                                                              <h3> Blockchain Developer From India. </h3>
 
