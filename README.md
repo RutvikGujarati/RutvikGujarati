@@ -38,6 +38,7 @@
 
 ### 📊 GitHub Stats:
 ![Rutvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RutvikGujarati&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutvikGujarati&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RutvikGujarati&theme=radical&hide_border=false)
 
 
