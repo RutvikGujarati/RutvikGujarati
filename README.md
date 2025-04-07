@@ -9,8 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00D4FF¢er=true&vCenter=true&width=600&lines=Coding+the+Future+with+Blockchain;Smart+Contracts+%7C+Web3+%7C+dApps" alt="Typing Animation" />
 </p>
 
-I’m a blockchain wizard conjuring decentralized brilliance—one smart contract at a time. Watch me shape the future! 🚀  
-
+I’m a blockchain Developer forging the decentralized frontier. Behold the future unfolding! 🌌
 ---
 
 ## 🌐 Connect with Me  
